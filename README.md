@@ -1,4 +1,4 @@
-## Recursive-function
+## EX-NO-7 Recursive-function
 ### Aim:
 
 To write a C# program to reverse a number using recursive function.
